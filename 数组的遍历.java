@@ -5,7 +5,7 @@ public class AIIT190329
 
 	public static void main(String[] args)
 	{
-		//Ò»Êı×éµÄ±éÀú
+		//ä¸€æ•°ç»„çš„éå†
 		int array1[]=new int[] {9,8,5,2,1,1};
 		
 		//foreach
@@ -20,7 +20,7 @@ public class AIIT190329
 			System.out.print(array1[i]+"\t");
 		}
 		System.out.println();
-		//¶şÎ¬Êı×éµÄ±éÀú
+		//äºŒç»´æ•°ç»„çš„éå†
 		int array2[][]=new int[][] {{9,8,5},{2,1,1}};
 		
 		//foreach
